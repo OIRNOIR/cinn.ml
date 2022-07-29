@@ -1,1 +1,4 @@
-/* https://invite.cinnamon.gifts/beta
+/ https://invite.cinnamon.gifts/beta
+
+# Redirect for 404s
+/* https://cinnamon.gifts/:splat
